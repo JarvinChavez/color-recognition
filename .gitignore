@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 output_images/
 samples/selection.json
+samples/*_grid_colors.json
